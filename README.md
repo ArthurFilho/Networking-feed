@@ -8,4 +8,4 @@
 - [REACT.JS]()
 
 
-<h1> <a src="https://networking-feed.netlify.app"> Clique aqui para ver o site em ação </a></h1>
+<h1> <a href="https://networking-feed.netlify.app"> Clique aqui para ver o site em ação </a></h1>

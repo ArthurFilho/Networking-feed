@@ -8,4 +8,4 @@
 - [REACT.JS]()
 
 
-<h1> Link do projeto hospedado em um site ---> https://networking-feed.netlify.app/ </h1>
+<h1> <a src="https://networking-feed.netlify.app"> Clique aqui para ver o site em ação </a></h1>
